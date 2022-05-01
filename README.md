@@ -4,7 +4,11 @@ Hi 👋 My name is Suhash Sagar Singh
 Web developer
 -------------
 
-👋 Hi, I’m @iamsinghsubhash 👀 I’m interested in front-end development 🌱 I’m currently learning java 💞️ I’m looking to collaborate on ...💻 📫 How to reach me ...
+👋 Hi, I’m @iamsinghsubhash 👀
+I’m interested in front-end development 🌱
+I’m currently learning java 💞️ 
+I’m looking to collaborate on ...💻 📫
+How to reach me ...
 
 * 🌍  I'm based in Indian
 
