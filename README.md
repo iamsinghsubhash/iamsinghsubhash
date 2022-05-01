@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsinghsubhash
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...💻
 - 📫 How to reach me ...
 
