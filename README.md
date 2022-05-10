@@ -5,10 +5,10 @@ Web developer
 -------------
 
 
-I’m interested in front-end development 🌱
-I’m currently learning java 💞️ 
-I’m looking to collaborate on ...💻 📫
-How to reach me ...
+I’m interested in front-end development 🌱<br>
+I’m currently learning java 💞️ <br>
+I’m looking to collaborate on ...💻 📫<br>
+How to reach me ...<br>
 
 * 🌍  I'm based in Indian
 
