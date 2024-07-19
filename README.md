@@ -39,4 +39,4 @@ src="https://img.shields.io/github/followers/iamsinghsubhash?logo=github&style=f
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/iamsinghsubhash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://buymeacoffee.com/sseffortn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
