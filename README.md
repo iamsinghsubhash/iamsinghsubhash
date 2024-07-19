@@ -1,14 +1,6 @@
-Hi 👋 My name is Suhash Sagar Singh
-===================================
-
-Web developer
--------------
-
-
-I’m interested in front-end development 🌱<br>
-I’m currently learning java 💞️ <br>
-I’m looking to collaborate on ...💻 📫<br>
-How to reach me ...<br>
+👋 Hi everyone, I’m Subhash, a Web developer.
+👨🏻‍🏫 Instructor on YouTube: https://www.youtube.com/@SSEFFORT
+📫 How to reach me https://www.linkedin.com/in/subhash-sagar-singh-b590581a0/
 
 * 🌍  I'm based in Indian
 
