@@ -1,5 +1,7 @@
 👋 Hi everyone, I’m Subhash, a Web developer.
+
 👨🏻‍🏫 Instructor on YouTube: https://www.youtube.com/@SSEFFORT
+
 📫 How to reach me https://www.linkedin.com/in/subhash-sagar-singh-b590581a0/
 
 * 🌍  I'm based in Indian
